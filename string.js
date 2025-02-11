@@ -6,4 +6,12 @@ function sleep(s)
 }
 
 sleep('sumon');
-sleep('sourav');
+sleep('sourav'); 
+
+function val(x)
+{
+    return x;
+} 
+
+let text = "the temperature is " + val(10) + " celsius";
+console.log(text);
