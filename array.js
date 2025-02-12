@@ -47,3 +47,4 @@ function myFun3(total, value , index, array)
     return total + value;
 }
 console.log(sum);
+

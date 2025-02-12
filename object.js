@@ -1,4 +1,8 @@
-const person = { firstName: "John", lastName: "Doe", age: 50 ,
+
+
+const person = { firstName: "John", 
+    lastName: "Doe", 
+    age: 50 ,
     sleep : function()
     {
         this.eat();
